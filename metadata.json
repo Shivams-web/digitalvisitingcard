@@ -1,0 +1,8 @@
+{
+  "name": "Shivam Cyber Cafe - Digital Visiting Card",
+  "description": "A premium, professional digital business card for Shivam Cyber Cafe featuring online services and contact quick-actions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
